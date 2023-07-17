@@ -2,11 +2,13 @@
 
 I am Serafeim! I write about programming on my [blog](https://www.spapas.net/) and try to create useful open source projects here!
 
-[![spapas' GitHub stats](https://github-readme-stats.vercel.app/api?username=spapas&count_private=true)](https://github.com/spapas/github-readme-stats)
-
 If you find anything useful on my open source repos you can support my work by bying me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/spapas)
+
+
+[![spapas' GitHub stats](https://github-readme-stats.vercel.app/api?username=spapas&count_private=true)](https://github.com/spapas/github-readme-stats)
+
 
 <!--
 **spapas/spapas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
