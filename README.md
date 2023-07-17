@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Serafeim! I write about programming on my [blog](https://www.spapas.net/) and try to create useful open source projects here!
+
 [![spapas' GitHub stats](https://github-readme-stats.vercel.app/api?username=spapas&count_private=true)](https://github.com/spapas/github-readme-stats)
 
 If you find anything useful on my open source repos you can support my work by bying me a coffee:
